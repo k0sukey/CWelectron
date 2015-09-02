@@ -48,6 +48,11 @@ $ npm run package
 
 もともと nw.js で作っていたのですが、Electron もトレイ周りがかっちょよくなっていたので、こちらで書き直しました。
 
+## お礼
+
+パッケージ化のところは [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) を参考にさせていただきました。
+ありがとうございます。
+
 ## ライセンス
 
 MIT
